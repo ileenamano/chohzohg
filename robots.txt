@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chuxaethea.kingandmeek.com/sitemap.xml
